@@ -1,4 +1,4 @@
-# Swaping of 2 numbers without using third variable.
+// Swaping of 2 numbers without using third variable.
 public class SwapNumbers {
 
 public static void main(String[] args) {
